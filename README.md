@@ -5,7 +5,7 @@
 Dashboard: imagem de uma dashboard em um painel representando os resultados de uma organização em tempo real.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[Leonard.ai](https://app.leonardo.ai/)** para criação da imagen.
+- IA Generativa **[Leonard.AI](https://app.leonardo.ai/)** para criação da imagen.
 - IA Generativa para formulação de um bom prompt.
 - **[Copilot](https://copilot.microsoft.com/chats/uqqV6GFakC2yvQZ6puMu5)**
 - **[Chatgpt](https://chatgpt.com/)**
