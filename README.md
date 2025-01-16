@@ -15,6 +15,7 @@ O tilizei o "Leonard.AI" para criação da imagem para usada no projeto do paine
 ## 🚀 Resultados
 A dashboard mostra em tempo real os resultados da empresa. 
 
+**[LINK PARA DASHBOARD AQUI](https://github.com/viniciusddias/desafio_dio/tree/main/DESAFIO)**
 
 ## 💭 Reflexão (Opcional)
 Que as IAs generativa pode ser uma excelente aliada na analise de dados e nos negócios.
